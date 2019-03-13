@@ -12,8 +12,8 @@ Test generator is a VSCode Extension which quickly generate test files from Type
 
 You can browse and install extensions from within VS Code. Press `Ctrl+P` and narrow down the list commands by typing `ext install dotup-vscode-test-generator`.
 
-Or download from [Visual Studio Marketplace](
-https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-test-generator).
+Or download from 
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-test-generator "Visual Studio Marketplace Homepage")
 
 ## Usage
 
