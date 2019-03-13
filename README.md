@@ -1,4 +1,5 @@
-# Test generator for Visual Studio Code
+# Test generator for Visual Studio Code - PREVIEW
+## *This is just a prototype to see if there is interest.*
 
 ## Description
 
@@ -269,7 +270,7 @@ Sample configuration:
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1 - PREVIEW
 
 This is just a prototype to see if there is interest in such a tool.
 
